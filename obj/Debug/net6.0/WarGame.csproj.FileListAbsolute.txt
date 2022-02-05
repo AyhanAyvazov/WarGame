@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.AssemblyInfo.cs
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WarGame\bin\Debug\net6.0\WarGame.exe
+C:\Users\User\Desktop\WarGame\bin\Debug\net6.0\WarGame.deps.json
+C:\Users\User\Desktop\WarGame\bin\Debug\net6.0\WarGame.runtimeconfig.json
+C:\Users\User\Desktop\WarGame\bin\Debug\net6.0\WarGame.dll
+C:\Users\User\Desktop\WarGame\bin\Debug\net6.0\ref\WarGame.dll
+C:\Users\User\Desktop\WarGame\bin\Debug\net6.0\WarGame.pdb
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.dll
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\ref\WarGame.dll
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.pdb
+C:\Users\User\Desktop\WarGame\obj\Debug\net6.0\WarGame.genruntimeconfig.cache
